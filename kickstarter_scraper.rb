@@ -7,5 +7,5 @@ def create_project_hash
   
   projects = {}
   
-  kickstarter.css("li.project.grid4")
+  kickstarter.css("li.project.grid_4")
 end
